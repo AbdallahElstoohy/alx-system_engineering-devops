@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -emtpy -prinf"%f\n"
+find . -empty -printf "%f\n"
